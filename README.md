@@ -1,0 +1,1 @@
+Notebooks to model chemical reactions with three states and comparing them to comparable two-state systems. Using statistical mechanics, gibbs free energies, plain reaction coefficients and using the arrhenius equation for calculating the reaction coefficients
